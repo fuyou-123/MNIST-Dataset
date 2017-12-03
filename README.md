@@ -16,4 +16,4 @@ This is my first project using Python. I used MNIST dataset to practise Python c
 * Cost Function
 * PCA
 ## References
-* Gradient-based learning applied to document recognition
+* Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner, "Gradient-based learning applied to document recognition", Proc. IEEE 86(11): 2278-2324, 1998.
